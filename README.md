@@ -4,7 +4,7 @@ Proyek ini adalah aplikasi **CRUD Mahasiswa** yang dibangun menggunakan **Java**
 
 ## Identitas Proyek
 
-- **Nama:** Arbi bagaskaraputra
+- **Nama:** Arbi Bagaskaraputra
 - **NIM:** 312310671
 - **Kelas:** TI.23.A6  
 - **Mata Kuliah:** Pemrograman Berorientasi Objek  
