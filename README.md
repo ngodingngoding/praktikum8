@@ -4,8 +4,8 @@ Proyek ini adalah aplikasi **CRUD Mahasiswa** yang dibangun menggunakan **Java**
 
 ## Identitas Proyek
 
-- **Nama:** Muhammad Prayoga Putra Mahardhika
-- **NIM:** 312310569
+- **Nama:** Arbi bagaskaraputra
+- **NIM:** 312310671
 - **Kelas:** TI.23.A6  
 - **Mata Kuliah:** Pemrograman Berorientasi Objek  
 - **Dosen:** Agung Nugroho, S.Kom., M.Kom.
